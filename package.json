@@ -1,5 +1,5 @@
 {
-  "name": "svg-react-sandbox",
+  "name": "d3-sandbox",
   "version": "1.0.0",
   "description": "",
   "main": "main.jsx",
@@ -11,9 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "d3": "^4.11.0",
+    "d3-shape": "^1.2.0",
     "prop-types": "^15.6.0",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
+    "react-tippy": "^1.2.2",
     "react-toolbox": "^2.0.0-beta.12",
     "react-virtualized": "^9.10.1"
   },

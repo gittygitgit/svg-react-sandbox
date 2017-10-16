@@ -2,9 +2,9 @@
  
 import ReactDOM from 'react-dom';
 import React from 'react';
-import ViewportTest from './viewportTest/ViewportTest';
+import SimpleTest from './SimpleTest';
 
 ReactDOM.render(
-  <ViewportTest/>,
+  <SimpleTest/>,
   document.getElementById('app'));
 
