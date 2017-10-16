@@ -2,9 +2,9 @@
  
 import ReactDOM from 'react-dom';
 import React from 'react';
-import SimpleTest from './SimpleTest';
+import TooltipTest from './tooltipTest/TooltipTest';
 
 ReactDOM.render(
-  <SimpleTest/>,
+  <TooltipTest/>,
   document.getElementById('app'));
 

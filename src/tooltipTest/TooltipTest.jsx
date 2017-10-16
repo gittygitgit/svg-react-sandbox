@@ -38,8 +38,6 @@ const randomDataSet = () => {
   });
 };
 
-
-
 export default class TooltipTest extends React.Component {
   constructor(props) {
     super(props);
